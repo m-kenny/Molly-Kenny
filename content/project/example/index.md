@@ -1,24 +1,21 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags:
+title: Investigating the predictability of a  chaotic time-series data using    Reservoir computing, Deep-Learning and Machine- Learning on the        short-, medium- and long-term pricing of Bitcoin and Ethereum.
+
+summary: This study will investigate the predictability of a Chaotic time-series data using Reservoir computing (Echo State Network), Deep-Learning(LSTM) and Machine- Learning(Linear, Bayesian, ElasticNetCV , Random Forest, XGBoost Regression and a machine learning Neural Network) on the short (1-day out prediction), medium (5-day out prediction) and long-term (30-day out prediction) pricing of Bitcoin and Ethereum.
+
+tags: ["Deep Learning", "Machine Learning", "Crypto"]
 - Deep Learning
-date: "2016-04-27T00:00:00Z"
+date: "2020-09-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/m-kenny/Predicting_BTC_ETH"
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "https://arrow.tudublin.ie/scschcomdis/229/"
 url_slides: ""
 url_video: ""
 
@@ -30,12 +27,13 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+This study will investigate the predictability of a Chaotic time-series data using Reservoir computing (Echo State Network), Deep-Learning(LSTM) and Machine- Learning(Linear, Bayesian, ElasticNetCV , Random Forest, XGBoost Regression and a machine learning Neural Network) on the short (1-day out prediction), medium (5-day out prediction) and long-term (30-day out prediction) pricing of Bitcoin and Ethereum
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Using a range of machine learning tools, to perform feature selection by permutation importance to select technical indicators on the individual cryptocurrencies, to ensure the datasets are the best for predictions per cryptocurrency while reducing noise within the models. 
+The predictability of these two chaotic time-series is then compared to evaluate the models to find the best fit model. The models are fine-tuned, with hyperparameters, design of the network within the LSTM and the reservoir size within the Echo State Network being adjusted to improve accuracy and speed.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+This research highlights the effect of the trends within the cryptocurrency and its effect on predictive models, these models will then be optimized with hyperparameter tuning, and be evaluated to compare the models across the two currencies. 
+It is found that the datasets for each cryptocurrency are different, due to the different permutation importance, which does not affect the overall predictability of the models with the short and medium-term predictions having the same models being the top performers.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+This research confirms that the chaotic data although can have positive results for short-and medium-term prediction, for long-term prediction, technical analysis based-prediction is not sufficient.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.

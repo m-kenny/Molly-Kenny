@@ -67,7 +67,6 @@ date_format: Jan 2006
          * Advocate for 17,000 students on the University Board and University Academic Council, where top level decisions for the University are made.
          * Organized and managed Class Representative training for 300 people as an overnight event.
 
-
 design:
   columns: '2'
 ---

@@ -48,7 +48,6 @@ date_format: Jan 2006
     description: |2-
         Responsibilities include:
         
-
         * Creating Engineering models for potential and existing clients in order to achieve Lean and effective Supply Chain Processes. 
         * Using Supply Chain software as well as data analysis software in order to create Centre of Gravity studies to optimize the flow of materials through the supply chain.
         * Designing layouts of warehouses to create a desired flow which synchronizes with the data provided to ensure Optimization of capex and labor. Creating both 2D renders within AutoCAD and 3D models within Blender.

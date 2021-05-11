@@ -20,5 +20,5 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: media/Molly_Kenny_Cv.pdf
+    url: uploads/Molly_Kenny_CV.pdf
     weight: 50

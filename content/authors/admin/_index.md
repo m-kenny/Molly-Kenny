@@ -31,10 +31,6 @@ education:
   - course: MSc in Computer Science (Data Science)
     institution: Technological University of Dublin (DIT)
     year: 2020
-
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
   - course: BEng Mechanical and Manufacturing Engineering
     institution: Trinity College Dublin, the University of Dublin
     year: 2017

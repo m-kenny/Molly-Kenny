@@ -3,7 +3,8 @@ title: Investigating the predictability of a  chaotic time-series data using    
 
 summary: This study will investigate the predictability of a Chaotic time-series data using Reservoir computing (Echo State Network), Deep-Learning(LSTM) and Machine- Learning(Linear, Bayesian, ElasticNetCV , Random Forest, XGBoost Regression and a machine learning Neural Network) on the short (1-day out prediction), medium (5-day out prediction) and long-term (30-day out prediction) pricing of Bitcoin and Ethereum.
 
-tags: ["Deep Learning", "Machine Learning", "Crypto"]
+tags: 
+- Crypto
 - Deep Learning
 date: "2020-09-01T00:00:00Z"
 

@@ -49,6 +49,20 @@ experience:
         * Analysing
         * Modelling
         * Deploying
+        
+  - title: Data Science Consulting
+    company: ProductionNet
+    company_url: 'www.production.net'
+    company_logo: org-x
+    location: Dublin
+    date_start: '2017-05-01'
+    date_end: '2019-05-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 design:
   columns: '2'
 ---

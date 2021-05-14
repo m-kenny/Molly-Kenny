@@ -50,23 +50,9 @@ date_format: Jan 2006
         Responsibilities include:
         
         * Creating Engineering models for potential and existing clients in order to achieve Lean and effective Supply Chain Processes. 
-        * Using Supply Chain software as well as data analysis software in order to create Centre of Gravity studies to optimize the flow of materials through the supply chain.
-        * Designing layouts of warehouses to create a desired flow which synchronizes with the data provided to ensure Optimization of capex and labor. Creating both 2D renders within AutoCAD and 3D models within Blender.
+        * Using Supply Chain software as well as data analysis software in order to create Centre of Gravity studies.
+        * Designing layouts of warehouses
         
-  - title: Education Officer/ Deputy President
-    company: Trinity College Students' Union
-    company_url: 'https://www.tcdsu.org/'
-    company_logo: org-x
-    location: Chicago & the Netherlands
-    date_start: '2015-07-01'
-    date_end: '2016-06-31'
-    description: |2-
-        Responsibilities include:
-        
-         * Elected by 4,600 students – 30% of university undergraduate student population 
-         * Advocate for 17,000 students on the University Board and University Academic Council, where top level decisions for the University are made.
-         * Organized and managed Class Representative training for 300 people as an overnight event.
-
 design:
   columns: '2'
 ---
